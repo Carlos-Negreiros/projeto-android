@@ -9,8 +9,8 @@
         src: url(../fontes/idroid.otf) format(opentype); }
 
     @font-face {
-        font-family:tech;
-        src: url(../fontes/technocra.otf) format(opentype) ;
+        font-family: Tech;
+        src: url(../fontes/technocra.otf) format(opentype);
     }
 
    :root {
@@ -27,7 +27,7 @@
    
     --fonte-padrao: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
-    --fonte-destaque:'tech', 'mono-space';
+    --fonte-destaque:'Tech', 'mono-space';
 
     --fonte-android: 'Android', sans-serif;
 }
