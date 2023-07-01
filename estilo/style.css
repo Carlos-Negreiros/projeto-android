@@ -10,9 +10,8 @@
 
     @font-face {
         font-family: Tech;
-        src: url(../fontes/technocra.otf) format(opentype);
-    }
-
+        src: url(../fontes/technocra.otf) format(opentype);}
+    
    :root {
     --cor0: #ebe5c5;
     --cor1: #83e1ad;
